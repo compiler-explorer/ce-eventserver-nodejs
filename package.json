@@ -1,0 +1,16 @@
+{
+  "name": "ce-eventserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node-esm index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mutex": "^0.4.0",
+    "net": "^1.0.2",
+    "typescript": "^5.1.6"
+  }
+}
